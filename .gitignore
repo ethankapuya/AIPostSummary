@@ -1,2 +1,5 @@
 # IDE settings
 .idea
+
+# Environment variables
+.env
